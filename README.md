@@ -2,7 +2,7 @@
 
 # Hello 👋, I am Dua!
 
-![animated gif](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)
+![animated gif](./coding-girl.gif)
 
 
 
