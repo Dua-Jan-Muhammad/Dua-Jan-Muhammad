@@ -12,7 +12,9 @@ I am AI Engineer, currently pursuing my Bachelor of Science in Artificial Intell
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-*May your code compile on the first try! 🚀*
+
+
+May your code compile on the first try! 🚀
 
 <!--
 **Dua-Jan-Muhammad/Dua-Jan-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
