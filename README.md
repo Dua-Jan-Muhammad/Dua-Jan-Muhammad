@@ -1,7 +1,7 @@
 
 # Hello 👋, I am Dua!
 
-![animated gif](./code.gif)
+![animated gif](./intro.gif)
 
 I am AI Engineer, currently pursuing my Bachelor of Science in Artificial Intelligence from SMIU 🧑‍🎓. 
 
